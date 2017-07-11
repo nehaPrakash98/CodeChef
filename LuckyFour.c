@@ -1,4 +1,6 @@
 /*
+Day 7 - 11/7/17
+
 Kostya likes the number 4 much. Of course! This number has such a lot of properties, like:
 
 Four is the smallest composite number;
