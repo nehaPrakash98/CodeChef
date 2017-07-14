@@ -1,4 +1,5 @@
 /*
+Day 10 - 14/7/2017
 Problem: Three numbers A, B and C are the inputs. Write a program to find second largest among three numbers.
 
 Input
