@@ -1,3 +1,3 @@
-# CodeChef
+# HackerRank
 Contains daily programming assignments
-Start: 1st July 2017
+Start: 15st July 2017
